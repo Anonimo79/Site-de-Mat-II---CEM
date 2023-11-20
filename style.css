@@ -1,0 +1,8 @@
+.bob {
+    background-color: #3F3F3F;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 0 40px 0 40px;
+}
